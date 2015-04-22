@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "composerdb": {
+    "name": "composerdb",
+    "connector": "mongodb",
+    "host": "kahana.mongohq.com",
+    "port": 10055,
+    "database": "testdb",
+    "username": "hegel",
+    "password": "8582274593"
+  }
+}
